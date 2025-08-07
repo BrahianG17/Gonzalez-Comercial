@@ -17,7 +17,7 @@ const Header = ({ onLogout, user }) => {
           <nav>
             <a href="#" className="active">Inicio</a>
             <a href="#">Finanzas</a>
-            <a href="#">Nosotros</a>
+            <a href="#">hdp</a>
             <a href="#">Contacto</a>
             <a href="#">Blog</a>
           </nav>
